@@ -1,0 +1,151 @@
+{
+ "title": "Datificación de Medios y Audiencias: Experiencia de Aprendizaje Interactivo",
+ "description": "Quiz pedagógico avanzado dirigido a estudiantes universitarios para profundizar en la datificación, sus dimensiones, diferencias con procesos afines y su impacto crítico en la relación entre medios y audiencias.",
+ "learningObjectives": [
+  "Comprender la datificación como un proceso ontológico y social, más allá de la mera digitalización.",
+  "Distinguir la datificación de fenómenos como la digitalización masiva y las métricas superficiales.",
+  "Analizar la transición metodológica del rating tradicional basado en muestras al flujo continuo de datos.",
+  "Evaluar críticamente la relación entre métricas cuantitativas y la experiencia real de la audiencia (sujeto vs. objeto)."
+ ],
+ "challenges": [
+  {
+   "id": 1,
+   "level": "Reconocer",
+   "type": "multiple_choice",
+   "question": "En el contexto de los medios digitales contemporáneos, ¿cuál de las siguientes opciones define con mayor precisión el concepto central de <i>datificación</i> (datafication)?",
+   "options": [
+    "El simple almacenamiento de documentos de texto en formato PDF dentro de servidores en la nube.",
+    "El proceso mediante el cual las prácticas y experiencias humanas se transforman en datos cuantificables aptos para el procesamiento algorítmico.",
+    "La sustitución de los periodistas humanos por programas de inteligencia artificial en las redacciones.",
+    "La venta masiva de bases de datos de usuarios a empresas de publicidad exterior."
+   ],
+   "correctAnswer": 1,
+   "feedback": "Correcto. La datificación va mucho más allá de la digitalización: implica traducir aspectos de la vida social, la cotidianidad y las experiencias de las audiencias en flujos de datos cuantificables que las máquinas pueden leer, predecir y gobernar ('Si no se datifica, no existe para la máquina')."
+  },
+  {
+   "id": 2,
+   "level": "Reconocer",
+   "type": "true_false",
+   "question": "Verdadero o Falso: La datificación es sinónimo estricto de digitalización; cualquier documento que pase de papel a formato digital ya constituye un proceso de datificación.",
+   "options": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correctAnswer": 1,
+   "feedback": "Falso. La digitalización convierte información análoga en códigos binarios (ceros y unos), mientras que la datificación da un paso más profundo: cuantifica aspectos de la vida, el comportamiento y las interacciones humanas para convertirlos en datos procesables y medibles con fines de análisis, control y predicción."
+  },
+  {
+   "id": 3,
+   "level": "Distinguir",
+   "type": "multiple_choice",
+   "question": "Según Mathieu y Jorge (2020) y los planteamientos sobre medios y audiencias, ¿qué implicación principal tiene el tránsito del 'rating estimado' a la datificación continua?",
+   "options": [
+    "La audiencia deja de ser un grupo estimado por muestras estadísticas para convertirse en un flujo de puntos de datos interconectados.",
+    "Los medios tradicionales de televisión han logrado eliminar por completo el uso de estadísticas poblacionales.",
+    "Las audiencias actuales tienen el control total y directo sobre los algoritmos de recomendación de las plataformas.",
+    "Se garantiza una precisión absoluta que elimina cualquier margen de error en la medición de los afectos humanos."
+   ],
+   "correctAnswer": 0,
+   "feedback": "Correcto. Mientras el modelo tradicional del audímetro se basaba en una muestra reducida y estática para proyectar estimaciones, la datificación continua desglosa al público en rastros granulares e interconectados de clics, tiempos y recorridos en tiempo real."
+  },
+  {
+   "id": 4,
+   "level": "Distinguir",
+   "type": "multiple_choice",
+   "question": "¿Cuál de las siguientes situaciones cotidianas ilustra de manera directa un proceso de <i>datificación de la cotidianidad</i>?",
+   "options": [
+    "Comprar una edición impresa dominical del periódico en un estanquillo tradicional.",
+    "El registro automático de las rutas, tiempos de permanencia y clics que realiza un usuario al navegar en un sitio web de noticias.",
+    "Escribir una carta a mano y enviarla por el servicio postal nacional.",
+    "Conversar en privado con un amigo en una banca del parque sin teléfonos móviles cerca."
+   ],
+   "correctAnswer": 1,
+   "feedback": "Correcto. La datificación convierte la cotidianidad y la privacidad en un 'tablero de control'. Los movimientos, clics y tiempos de permanencia en entornos digitales transforman actos comunes en fuentes de información estructural para las plataformas."
+  },
+  {
+   "id": 5,
+   "level": "Relacionar",
+   "type": "multiple_choice",
+   "question": "En el análisis analítico de los medios actuales, ¿qué mide específicamente el indicador de <i>scroll depth</i> (profundidad de desplazamiento)?",
+   "options": [
+    "La cantidad exacta de dinero que un usuario gasta en suscripciones digitales al mes.",
+    "El número de veces que una noticia ha sido compartida en redes sociales cerradas.",
+    "El párrafo o sección exacta en la que el lector pierde el interés y abandona la lectura de una nota periodística.",
+    "El nivel de felicidad o enojo expresado en la sección de comentarios de un diario digital."
+   ],
+   "correctAnswer": 2,
+   "feedback": "Correcto. La trazabilidad del consumo mediante el *scroll depth* permite a los medios saber con precisión milimétrica en qué punto de una nota el usuario detiene la lectura o abandona la página, ayudando a calibrar la extensión y el ritmo de los contenidos periodísticos."
+  },
+  {
+   "id": 6,
+   "level": "Relacionar",
+   "type": "multiple_choice",
+   "question": "Desde la perspectiva conceptual abordada, ¿qué diferencia fundamental existe entre <i>Big Data</i> y <i>Small Data</i> en el periodismo y el análisis de audiencias?",
+   "options": [
+    "Big Data analiza millones de datos enfocándose en correlaciones masivas, mientras Small Data explora muestras reducidas buscando comprender el 'por qué' o las causas.",
+    "Big Data es utilizado exclusivamente por los gobiernos, mientras que Small Data es una tecnología obsoleta que ya no se usa.",
+    "Big Data se refiere a noticias falsas y Small Data a noticias verificadas por agencias internacionales.",
+    "No existe ninguna diferencia conceptual; ambos términos significan exactamente lo mismo en la industria de los medios."
+   ],
+   "correctAnswer": 0,
+   "feedback": "Correcto. Mientras el Big Data maneja enormes volúmenes, velocidad y variedad buscando patrones y correlaciones estadísticas masivas, el Small Data ofrece datos accionables y cercanos que permiten a los periodistas indagar en las causas profundas y los significados cualitativos (por ejemplo, analizando los comentarios más votados)."
+  },
+  {
+   "id": 7,
+   "level": "Aplicar",
+   "type": "multiple_choice",
+   "question": "Cuando un medio digital procesa miles de comentarios de una nota política para detectar cargas semánticas de enojo o alegría y traducirlos en un indicador de polarización, ¿qué técnica de medición de audiencias está aplicando?",
+   "options": [
+    "Un panel de audiencia tradicional con audímetros analógicos.",
+    "Análisis de sentimiento.",
+    "Muestreo probabilístico aleatorio por llamadas telefónicas.",
+    "Censo demográfico presencial puerta a puerta."
+   ],
+   "correctAnswer": 1,
+   "feedback": "Correcto. El análisis de sentimiento procesa el lenguaje natural en los comentarios para extraer cargas semánticas emocionales (enojo, alegría, frustración), traduciendo interacciones subjetivas en indicadores cuantitativos de polarización o interés público."
+  },
+  {
+   "id": 8,
+   "level": "Aplicar",
+   "type": "multiple_choice",
+   "question": "En el modelo conceptual de la relación entre medios y audiencias mediada por datos, ¿qué significa que la audiencia actúe simultáneamente como <i>sujeto</i> y como <i>objeto</i>?",
+   "options": [
+    "Es sujeto porque paga una suscripción mensual, y es objeto porque recibe publicidad impresa en papel.",
+    "Es sujeto porque interpreta, selecciona y responde activamente a los mensajes; y es objeto porque es medida, calculada, anticipada y analizada mediante datos.",
+    "Es sujeto durante los fines de semana y objeto únicamente durante los días hábiles laborales.",
+    "Es un concepto metafórico sin validez real en el periodismo moderno."
+   ],
+   "correctAnswer": 1,
+   "feedback": "Correcto. La audiencia mantiene su agencia como *sujeto* que da sentido y decodifica la información, pero al mismo tiempo se convierte en *objeto* epistémico y comercial al ser continuamente rastreada, calculada y anticipada por los sistemas algorítmicos de los medios."
+  },
+  {
+   "id": 9,
+   "level": "Reflexionar",
+   "type": "true_false",
+   "question": "Verdadero o Falso: Según los debates sobre la datificación y la experiencia de los usuarios, una métrica digital (como un clic o un 'me gusta') refleja de manera perfecta e infalible la experiencia subjetiva y el contexto íntimo de la audiencia.",
+   "options": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correctAnswer": 1,
+   "feedback": "Falso. Una métrica muestra un comportamiento técnico cuantificable, pero no necesariamente explica la experiencia íntima. Existe una brecha profunda entre los datos que producen los sistemas automatizados y la complejidad del sentido subjetivo, el afecto o el contexto del usuario."
+  },
+  {
+   "id": 10,
+   "level": "Reflexionar",
+   "type": "multiple_choice",
+   "question": "En relación con la lógica circular del ecosistema contemporáneo <i>Audiencia → datos → medio → decisiones → audiencia</i>, ¿cuál es la consecuencia principal de este ciclo?",
+   "options": [
+    "Los medios toman decisiones editoriales informadas por rastros de datos que a su vez influyen en las futuras conductas y respuestas de la audiencia.",
+    "La comunicación se vuelve totalmente estática y unilateral, impidiendo cualquier cambio en las redacciones.",
+    "Los datos desaparecen por completo una vez que el usuario cierra su navegador web.",
+    "Se elimina la necesidad de contar con criterios periodísticos o líneas editoriales en los medios."
+   ],
+   "correctAnswer": 0,
+   "feedback": "Correcto. Este circuito describe una retroalimentación continua: las acciones de la audiencia generan datos que el medio analiza para reconfigurar sus decisiones editoriales y formatos, lo cual incide nuevamente en las prácticas y respuestas del público en un bucle permanente."
+  }
+ ]
+}
+```eof
+
+Nice work completing the practice configuration! You can use the UI to generate more questions, a set of flashcards, or a comprehensive study guide based on your progress.
